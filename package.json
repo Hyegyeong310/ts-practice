@@ -1,0 +1,13 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/Hyegyeong310/ts-practice.git",
+  "author": "한혜경 <hyegyeong310@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
